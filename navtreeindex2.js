@@ -1,9 +1,16 @@
 var NAVTREEINDEX2 =
 {
+"d5/d4c/group__sorting.html":[7,3],
+"d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[7,3,8],
+"d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[10,0,17,8,3],
+"d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72":[7,3,3],
+"d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72":[10,0,17,17,0],
+"d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[7,3,4],
+"d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[10,0,17,5,1],
 "d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[7,3,6],
 "d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[10,0,17,8,1],
-"d5/d4c/group__sorting.html#gaa8dca7b867074164d5f45b0f3851269d":[7,3,9],
 "d5/d4c/group__sorting.html#gaa8dca7b867074164d5f45b0f3851269d":[10,0,17,17,2],
+"d5/d4c/group__sorting.html#gaa8dca7b867074164d5f45b0f3851269d":[7,3,9],
 "d5/d4c/group__sorting.html#gab6b14fea48d9841e29b9fc26be6e05d7":[7,3,7],
 "d5/d4c/group__sorting.html#gab6b14fea48d9841e29b9fc26be6e05d7":[10,0,17,8,2],
 "d5/d4c/group__sorting.html#gabd9a93f241c5c86f2ec0abf8b66b4145":[10,0,17,5,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX2 =
 "d7/d00/list__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,2,7,1],
 "d7/d1e/graph_2dijkstra_8cpp.html":[10,0,5,3],
 "d7/d1e/graph_2dijkstra_8cpp.html#a330a2b0a904f01802ada1f8f3b28e76c":[10,0,5,3,4],
-"d7/d1e/graph_2dijkstra_8cpp.html#a454891267187a5ec6c6e3f3ad5203ff1":[10,0,5,3,0],
-"d7/d1e/graph_2dijkstra_8cpp.html#a868530bfaed30e57290a76d5b4402d50":[10,0,5,3,1],
-"d7/d1e/graph_2dijkstra_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[10,0,5,3,3],
-"d7/d1e/graph_2dijkstra_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,5,3,2],
-"d7/d24/nqueen__print__all__solutions_8cpp.html":[10,0,0,5],
-"d7/d24/nqueen__print__all__solutions_8cpp.html#acc809c055f335011de0d9030034c7108":[10,0,0,5,2],
-"d7/d24/nqueen__print__all__solutions_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,5,1],
-"d7/d24/nqueen__print__all__solutions_8cpp.html#aea343d8a72a39c9a4c0fbcbc362f2648":[10,0,0,5,0]
+"d7/d1e/graph_2dijkstra_8cpp.html#a454891267187a5ec6c6e3f3ad5203ff1":[10,0,5,3,0]
 };

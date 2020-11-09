@@ -42,7 +42,7 @@ var searchData=
   ['linked_5flist_2ecpp_1007',['linked_list.cpp',['../da/dc3/linked__list_8cpp.html',1,'']]],
   ['linkedlist_1008',['linkedlist',['../d0/dff/structlinkedlist.html',1,'']]],
   ['linkedlist_5fimplentation_5fusingarray_2ecpp_1009',['linkedlist_implentation_usingarray.cpp',['../d3/dce/linkedlist__implentation__usingarray_8cpp.html',1,'']]],
-  ['list_1010',['list',['../d8/d10/structlist.html',1,'list'],['http://en.cppreference.com/w/cpp/container/list.html',0,'std::list&lt; T &gt;'],['../d1/def/classdata__structures_1_1linked__list_1_1list.html',1,'data_structures::linked_list::list'],['http://en.cppreference.com/w/cpp/container/list/list.html',0,'std::list::list()'],['../d1/def/classdata__structures_1_1linked__list_1_1list.html#a50e209b55b83622254177050945e7826',1,'data_structures::linked_list::list::list()']]],
+  ['list_1010',['list',['../d1/def/classdata__structures_1_1linked__list_1_1list.html',1,'data_structures::linked_list::list'],['../d8/d10/structlist.html',1,'list'],['http://en.cppreference.com/w/cpp/container/list.html',0,'std::list&lt; T &gt;'],['http://en.cppreference.com/w/cpp/container/list/list.html',0,'std::list::list()'],['../d1/def/classdata__structures_1_1linked__list_1_1list.html#a50e209b55b83622254177050945e7826',1,'data_structures::linked_list::list::list()']]],
   ['list_3c_20int_20_3e_1011',['list&lt; int &gt;',['http://en.cppreference.com/w/cpp/container/list.html',0,'std']]],
   ['list_5farray_2ecpp_1012',['list_array.cpp',['../d7/d00/list__array_8cpp.html',1,'']]],
   ['ll_1013',['ll',['../d7/d35/matrix__exponentiation_8cpp.html#ae1d1ec9482079231e898236e2b23c9ba',1,'matrix_exponentiation.cpp']]],

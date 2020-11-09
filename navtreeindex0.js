@@ -1,5 +1,12 @@
 var NAVTREEINDEX0 =
 {
+"":[9,0,1,0],
+"":[9,0,6,0],
+"":[9,0,6,0,0],
+"":[9,0,7,0],
+"":[9,0,9,0],
+"":[9,0,3,0],
+"":[9,0,4,0],
 "annotated.html":[9,0],
 "classes.html":[9,1],
 "d0/d01/smallest__circle_8cpp.html":[10,0,13,12],
@@ -57,11 +64,11 @@ var NAVTREEINDEX0 =
 "d0/dd2/class_queue___array.html":[9,0,34],
 "d0/dd2/class_queue___array.html#a42b71cf370f06173cc0296839221c459":[9,0,34,2],
 "d0/dd2/class_queue___array.html#a4e1ea2bf04c99ef258888fd4303f09cd":[9,0,34,1],
-"d0/dd2/class_queue___array.html#a52de5f54eee2b875016fed8abb64d47a":[9,0,34,3],
-"d0/dd2/class_queue___array.html#a6b74ab4364b6b4d796dcbc934ff40dc1":[9,0,34,4],
-"d0/dd2/class_queue___array.html#a6de07e48dcd70df0b6c9affe94f7742f":[9,0,34,5],
-"d0/dd2/class_queue___array.html#abf0003cf9a3ef11c752a40475f586609":[9,0,34,6],
+"d0/dd2/class_queue___array.html#a6c4d320ee57b752e053c050582d7ce54":[9,0,34,3],
+"d0/dd2/class_queue___array.html#a6e9c459b8f35e9b3a48e1f664b0d1f0c":[9,0,34,6],
+"d0/dd2/class_queue___array.html#aa520df028d93b22da9aadf3f2f7ca5e8":[9,0,34,5],
 "d0/dd2/class_queue___array.html#abf20bb235f99915addd7f162008365be":[9,0,34,0],
+"d0/dd2/class_queue___array.html#af93ae296ae8dad714ee2010815e21ce4":[9,0,34,4],
 "d0/de2/gaussian__elimination_8cpp.html":[10,0,12,4],
 "d0/de2/gaussian__elimination_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,4,0],
 "d0/dff/structlinkedlist.html":[9,0,23],
@@ -242,12 +249,5 @@ var NAVTREEINDEX0 =
 "d2/dc4/classstack__linked_list.html#a44c1c5a34c5fb553025a33abe4f2e819":[9,0,38,0],
 "d2/dc4/classstack__linked_list.html#a565e79ec7a9d949664277afda874cf7c":[9,0,38,2],
 "d2/dc4/classstack__linked_list.html#aa34ec2024dcfe130e6458149093772b3":[9,0,38,5],
-"d2/dc4/classstack__linked_list.html#af12688f7e4d74a978c93d5b26199a208":[9,0,38,1],
-"d2/dcf/namespacestatistics.html":[8,0,50],
-"d2/dcf/namespacestatistics.html":[9,0,10],
-"d2/de7/namespacerunge__kutta.html":[8,0,44],
-"d2/de9/heavy__light__decomposition_8cpp.html":[10,0,15,1],
-"d2/de9/heavy__light__decomposition_8cpp.html#a34b8683a2b429de5cce57e6d733ec817":[10,0,15,1,4],
-"d2/de9/heavy__light__decomposition_8cpp.html#a458410412185a5f09199deaff7157a8d":[10,0,15,1,5],
-"d2/de9/heavy__light__decomposition_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,1,3]
+"d2/dc4/classstack__linked_list.html#af12688f7e4d74a978c93d5b26199a208":[9,0,38,1]
 };

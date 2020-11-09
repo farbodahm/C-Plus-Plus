@@ -1,5 +1,12 @@
 var NAVTREEINDEX1 =
 {
+"d2/dcf/namespacestatistics.html":[8,0,50],
+"d2/dcf/namespacestatistics.html":[9,0,10],
+"d2/de7/namespacerunge__kutta.html":[8,0,44],
+"d2/de9/heavy__light__decomposition_8cpp.html":[10,0,15,1],
+"d2/de9/heavy__light__decomposition_8cpp.html#a34b8683a2b429de5cce57e6d733ec817":[10,0,15,1,4],
+"d2/de9/heavy__light__decomposition_8cpp.html#a458410412185a5f09199deaff7157a8d":[10,0,15,1,5],
+"d2/de9/heavy__light__decomposition_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,1,3],
 "d2/de9/heavy__light__decomposition_8cpp.html#af31ec5409537703d9c8a47350386b32a":[10,0,15,1,6],
 "d3/d06/ode__semi__implicit__euler_8cpp.html":[10,0,12,11],
 "d3/d06/ode__semi__implicit__euler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[10,0,12,11,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX1 =
 "d5/d33/gram__schmidt_8cpp.html#aed4d308f46ca1d91e348ca260ec1d2fb":[10,0,9,0,1],
 "d5/d39/namespaceactivations.html":[8,0,0],
 "d5/d3c/namespacedata__structures.html":[9,0,1],
-"d5/d3c/namespacedata__structures.html":[8,0,6],
-"d5/d4c/group__sorting.html":[7,3],
-"d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[7,3,8],
-"d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[10,0,17,8,3],
-"d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72":[7,3,3],
-"d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72":[10,0,17,17,0],
-"d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[7,3,4],
-"d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[10,0,17,5,1]
+"d5/d3c/namespacedata__structures.html":[8,0,6]
 };
