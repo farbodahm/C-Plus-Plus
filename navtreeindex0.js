@@ -1,12 +1,5 @@
 var NAVTREEINDEX0 =
 {
-"":[9,0,1,0],
-"":[9,0,6,0],
-"":[9,0,6,0,0],
-"":[9,0,7,0],
-"":[9,0,9,0],
-"":[9,0,3,0],
-"":[9,0,4,0],
 "annotated.html":[9,0],
 "classes.html":[9,1],
 "d0/d01/smallest__circle_8cpp.html":[10,0,13,12],
@@ -249,5 +242,12 @@ var NAVTREEINDEX0 =
 "d2/dc4/classstack__linked_list.html#a44c1c5a34c5fb553025a33abe4f2e819":[9,0,38,0],
 "d2/dc4/classstack__linked_list.html#a565e79ec7a9d949664277afda874cf7c":[9,0,38,2],
 "d2/dc4/classstack__linked_list.html#aa34ec2024dcfe130e6458149093772b3":[9,0,38,5],
-"d2/dc4/classstack__linked_list.html#af12688f7e4d74a978c93d5b26199a208":[9,0,38,1]
+"d2/dc4/classstack__linked_list.html#af12688f7e4d74a978c93d5b26199a208":[9,0,38,1],
+"d2/dcf/namespacestatistics.html":[8,0,50],
+"d2/dcf/namespacestatistics.html":[9,0,10],
+"d2/de7/namespacerunge__kutta.html":[8,0,44],
+"d2/de9/heavy__light__decomposition_8cpp.html":[10,0,15,1],
+"d2/de9/heavy__light__decomposition_8cpp.html#a34b8683a2b429de5cce57e6d733ec817":[10,0,15,1,4],
+"d2/de9/heavy__light__decomposition_8cpp.html#a458410412185a5f09199deaff7157a8d":[10,0,15,1,5],
+"d2/de9/heavy__light__decomposition_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,1,3]
 };

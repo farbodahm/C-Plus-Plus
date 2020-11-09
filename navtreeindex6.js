@@ -1,12 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"de/d7b/merge__insertion__sort_8cpp.html#a0cba4fbf287ab8cb978ed7f8fef886b1":[10,0,17,7,0],
-"de/d7b/merge__insertion__sort_8cpp.html#a7161278f18e83b671c6454b139cc5674":[10,0,17,7,3],
-"de/d7b/merge__insertion__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,17,7,4],
-"de/d7b/merge__insertion__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,17,7,1],
-"de/d7b/merge__insertion__sort_8cpp.html#af4de4067a9a866ffd985c5b5055ccedf":[10,0,17,7,2],
-"de/d83/namespaceis__graph__bipartite.html":[8,0,16],
-"de/d85/decimal__to__roman__numeral_8cpp.html":[10,0,13,3],
 "de/d85/decimal__to__roman__numeral_8cpp.html#a003fb4e1b08279fe4cd50fbbc2782c2d":[10,0,13,3,2],
 "de/d85/decimal__to__roman__numeral_8cpp.html#a214743638eff1336f835310049aef979":[10,0,13,3,3],
 "de/d85/decimal__to__roman__numeral_8cpp.html#a88203bd297e8405160c132faa1187780":[10,0,13,3,0],
@@ -175,8 +168,8 @@ var NAVTREEINDEX6 =
 "globals_defs.html":[10,1,4],
 "globals_e.html":[10,1,0,5],
 "globals_f.html":[10,1,0,6],
-"globals_func.html":[10,1,1],
 "globals_func.html":[10,1,1,0],
+"globals_func.html":[10,1,1],
 "globals_func_a.html":[10,1,1,1],
 "globals_func_b.html":[10,1,1,2],
 "globals_func_c.html":[10,1,1,3],
@@ -225,5 +218,12 @@ var NAVTREEINDEX6 =
 "namespacemembers_func.html":[8,1,1],
 "namespacemembers_vars.html":[8,1,2],
 "namespaces.html":[8,0],
-"pages.html":[]
+"pages.html":[],
+"":[9,0,4,0],
+"":[9,0,7,0],
+"":[9,0,6,0,0],
+"":[9,0,6,0],
+"":[9,0,3,0],
+"":[9,0,9,0],
+"":[9,0,1,0]
 };
