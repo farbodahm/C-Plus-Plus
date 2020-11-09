@@ -1,6 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"db/d82/classlarge__number.html#ac27b399ed872731758ec33ebb102730e":[9,0,22,13],
 "db/d82/classlarge__number.html#ac4fafa6289295419d48d444f0ae4b706":[9,0,22,11],
 "db/d82/classlarge__number.html#ace19126cf343a09efc0010735f6e3a8d":[9,0,22,15],
 "db/d82/classlarge__number.html#adf804e60309bf016f7954fdcb0a4d103":[9,0,22,4],
@@ -186,8 +185,8 @@ var NAVTREEINDEX5 =
 "dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[10,0,12,6,2],
 "dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[10,0,12,6,0],
 "dd/d65/lu__decompose_8cpp.html#a9459fcd1f020373d73eae2bad43786d0":[10,0,12,6,1],
-"dd/d69/namespacerange__queries.html":[9,0,9],
 "dd/d69/namespacerange__queries.html":[8,0,42],
+"dd/d69/namespacerange__queries.html":[9,0,9],
 "dd/d81/namespacecaesar.html":[8,0,2],
 "dd/d91/class_fenwick_tree.html":[9,0,18],
 "dd/d91/class_fenwick_tree.html#a115ff5c548b429b737ea09f75817d1f9":[9,0,18,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX5 =
 "de/d75/qr__eigen__values_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[10,0,12,14,3],
 "de/d75/qr__eigen__values_8cpp.html#a7558fd7779bf207157ced66f275951a0":[10,0,12,14,4],
 "de/d75/qr__eigen__values_8cpp.html#a763896dbb4a7e95c4a1e614ac0819d66":[10,0,12,14,2],
-"de/d75/qr__eigen__values_8cpp.html#aee57a411f07599034f5ceb8cc7d65b40":[10,0,12,14,0]
+"de/d75/qr__eigen__values_8cpp.html#aee57a411f07599034f5ceb8cc7d65b40":[10,0,12,14,0],
+"de/d7b/merge__insertion__sort_8cpp.html":[10,0,17,7]
 };

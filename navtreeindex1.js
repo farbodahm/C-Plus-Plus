@@ -1,6 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"d2/dc4/classstack__linked_list.html#af12688f7e4d74a978c93d5b26199a208":[9,0,38,1],
 "d2/dcf/namespacestatistics.html":[8,0,50],
 "d2/dcf/namespacestatistics.html":[9,0,10],
 "d2/de7/namespacerunge__kutta.html":[8,0,44],
@@ -249,5 +248,6 @@ var NAVTREEINDEX1 =
 "d5/d33/gram__schmidt_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,9,0,3],
 "d5/d33/gram__schmidt_8cpp.html#aed4d308f46ca1d91e348ca260ec1d2fb":[10,0,9,0,1],
 "d5/d39/namespaceactivations.html":[8,0,0],
-"d5/d3c/namespacedata__structures.html":[9,0,1]
+"d5/d3c/namespacedata__structures.html":[9,0,1],
+"d5/d3c/namespacedata__structures.html":[8,0,6]
 };
