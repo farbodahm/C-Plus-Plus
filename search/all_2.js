@@ -59,7 +59,7 @@ var searchData=
   ['arg_64',['arg',['../da/d5a/class_complex.html#ae1e03712837450549e0c9b4017533a41',1,'Complex']]],
   ['argmax_65',['argmax',['../d8/d77/namespacemachine__learning.html#a1b42d24ad7bedbfa8e5b59fe96987a44',1,'machine_learning']]],
   ['armstrong_5fnumber_2ecpp_66',['armstrong_number.cpp',['../d4/d5d/math_2armstrong__number_8cpp.html',1,'']]],
-  ['arr_67',['arr',['../d0/d3e/classdata__structures_1_1trie.html#a362dd78748a1f01ab019e55fd6098a8b',1,'data_structures::trie']]],
+  ['arr_67',['arr',['../de/d44/classdata__structures_1_1linked__list_1_1_queue___array.html#a59068eddf4613c4a6bbd5a516fcf3f02',1,'data_structures::linked_list::Queue_Array::arr()'],['../d0/d3e/classdata__structures_1_1trie.html#a362dd78748a1f01ab019e55fd6098a8b',1,'data_structures::trie::arr()']]],
   ['array_68',['array',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
   ['array_3c_20float_2c_2020_20_3e_69',['array&lt; float, 20 &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
   ['array_3c_20int_2c_2050_20_3e_70',['array&lt; int, 50 &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
