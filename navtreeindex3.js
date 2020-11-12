@@ -1,13 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"d7/d1e/graph_2dijkstra_8cpp.html#a454891267187a5ec6c6e3f3ad5203ff1":[10,0,5,3,0],
-"d7/d1e/graph_2dijkstra_8cpp.html#a868530bfaed30e57290a76d5b4402d50":[10,0,5,3,1],
-"d7/d1e/graph_2dijkstra_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[10,0,5,3,3],
-"d7/d1e/graph_2dijkstra_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,5,3,2],
-"d7/d24/nqueen__print__all__solutions_8cpp.html":[10,0,0,5],
-"d7/d24/nqueen__print__all__solutions_8cpp.html#acc809c055f335011de0d9030034c7108":[10,0,0,5,2],
-"d7/d24/nqueen__print__all__solutions_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,5,1],
-"d7/d24/nqueen__print__all__solutions_8cpp.html#aea343d8a72a39c9a4c0fbcbc362f2648":[10,0,0,5,0],
 "d7/d24/nqueen__print__all__solutions_8cpp.html#aebd5e11fab6dab282efccfb61beb0bd9":[10,0,0,5,3],
 "d7/d35/matrix__exponentiation_8cpp.html":[10,0,13,6],
 "d7/d35/matrix__exponentiation_8cpp.html#a0cbd1162483ef7eccd5b947b2e01b1ab":[10,0,13,6,9],
@@ -212,7 +204,7 @@ var NAVTREEINDEX3 =
 "d8/dee/avltree_8cpp.html#aed58f3cea338a9d7bdcb9a4cfc6c7a78":[10,0,2,1,7],
 "d8/dee/avltree_8cpp.html#af4aeda155dbe167f1c1cf38cb65bf324":[10,0,2,1,1],
 "d8/df0/queue__using__array_8cpp.html":[10,0,2,9],
-"d8/df0/queue__using__array_8cpp.html#a145f727026485ecb1c4da13ca201be3b":[10,0,2,9,2],
+"d8/df0/queue__using__array_8cpp.html#a2d49e79bd164c298912db252970520d8":[10,0,2,9,2],
 "d8/df0/queue__using__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,2,9,1],
 "d9/d00/factorial_8cpp.html":[10,0,11,9],
 "d9/d00/factorial_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,11,9,1],
@@ -249,5 +241,13 @@ var NAVTREEINDEX3 =
 "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#afbf8a9cb9449d5ca844f4e141a801e6a":[9,0,9,0,1,7],
 "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#afcdadbdea1e2391cebbb17d2c1ae2f0b":[9,0,9,0,1,5],
 "d9/d44/magic__number_8cpp.html":[10,0,11,22],
-"d9/d44/magic__number_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[10,0,11,22,2]
+"d9/d44/magic__number_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[10,0,11,22,2],
+"d9/d44/magic__number_8cpp.html#a8d8e81a7cd59644b311ef9adb268f5f0":[10,0,11,22,0],
+"d9/d44/magic__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,11,22,1],
+"d9/d49/kohonen__som__trace_8cpp.html":[10,0,10,2],
+"d9/d49/kohonen__som__trace_8cpp.html#a0283886819c7c140a023582b7269e2d0":[10,0,10,2,7],
+"d9/d49/kohonen__som__trace_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[10,0,10,2,6],
+"d9/d49/kohonen__som__trace_8cpp.html#a2256c10b16edba377b64a44b6c656908":[10,0,10,2,2],
+"d9/d49/kohonen__som__trace_8cpp.html#a361674452869413536ee501f053129a8":[10,0,10,2,12],
+"d9/d49/kohonen__som__trace_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[10,0,10,2,4]
 };
