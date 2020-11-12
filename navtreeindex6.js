@@ -1,5 +1,14 @@
 var NAVTREEINDEX6 =
 {
+"de/d75/qr__eigen__values_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[10,0,12,14,3],
+"de/d75/qr__eigen__values_8cpp.html#a7558fd7779bf207157ced66f275951a0":[10,0,12,14,4],
+"de/d75/qr__eigen__values_8cpp.html#a763896dbb4a7e95c4a1e614ac0819d66":[10,0,12,14,2],
+"de/d75/qr__eigen__values_8cpp.html#aee57a411f07599034f5ceb8cc7d65b40":[10,0,12,14,0],
+"de/d7b/merge__insertion__sort_8cpp.html":[10,0,17,7],
+"de/d7b/merge__insertion__sort_8cpp.html#a0cba4fbf287ab8cb978ed7f8fef886b1":[10,0,17,7,0],
+"de/d7b/merge__insertion__sort_8cpp.html#a7161278f18e83b671c6454b139cc5674":[10,0,17,7,3],
+"de/d7b/merge__insertion__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,17,7,4],
+"de/d7b/merge__insertion__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,17,7,1],
 "de/d7b/merge__insertion__sort_8cpp.html#af4de4067a9a866ffd985c5b5055ccedf":[10,0,17,7,2],
 "de/d83/namespaceis__graph__bipartite.html":[8,0,16],
 "de/d85/decimal__to__roman__numeral_8cpp.html":[10,0,13,3],
@@ -62,7 +71,7 @@ var NAVTREEINDEX6 =
 "df/dc8/successive__approximation_8cpp.html#a79c1d08919ff7780a5d7723172602389":[10,0,12,16,0],
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,16,2],
 "df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[10,0,12,16,1],
-"df/dcb/namespacestrings.html":[8,0,54],
+"df/dcb/namespacestrings.html":[8,0,55],
 "df/dce/namespacegraph.html":[9,0,4],
 "df/dce/namespacegraph.html":[8,0,13],
 "df/dd0/queue__using__two__stacks_8cpp.html":[10,0,2,10],
@@ -221,12 +230,5 @@ var NAVTREEINDEX6 =
 "namespacemembers_func.html":[8,1,1],
 "namespacemembers_vars.html":[8,1,2],
 "namespaces.html":[8,0],
-"pages.html":[],
-"":[9,0,7,0],
-"":[9,0,4,0],
-"":[9,0,1,0],
-"":[9,0,3,0],
-"":[9,0,6,0],
-"":[9,0,9,0],
-"":[9,0,6,0,0]
+"pages.html":[]
 };
