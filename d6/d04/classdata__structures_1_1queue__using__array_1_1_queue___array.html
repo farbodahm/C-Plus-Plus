@@ -111,12 +111,16 @@ Collaboration diagram for data_structures::queue_using_array::Queue_Array:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a185dbd6ea55752e8114ce338defdd30c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a185dbd6ea55752e8114ce338defdd30c">Queue_Array</a> ()</td></tr>
+<tr class="memdesc:a185dbd6ea55752e8114ce338defdd30c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set maximum number of data.  <a href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a185dbd6ea55752e8114ce338defdd30c">More...</a><br /></td></tr>
 <tr class="separator:a185dbd6ea55752e8114ce338defdd30c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3139ea4fa676d57c0d6b063696e93ee0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a3139ea4fa676d57c0d6b063696e93ee0">enqueue</a> (const int8_t &amp;)</td></tr>
+<tr class="memdesc:a3139ea4fa676d57c0d6b063696e93ee0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add element to the first of the queue.  <a href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a3139ea4fa676d57c0d6b063696e93ee0">More...</a><br /></td></tr>
 <tr class="separator:a3139ea4fa676d57c0d6b063696e93ee0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2aaf88c9954ef3ab686f8e4bfbd87622"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a2aaf88c9954ef3ab686f8e4bfbd87622">dequeue</a> ()</td></tr>
+<tr class="memdesc:a2aaf88c9954ef3ab686f8e4bfbd87622"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delete element from back of the queue.  <a href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a2aaf88c9954ef3ab686f8e4bfbd87622">More...</a><br /></td></tr>
 <tr class="separator:a2aaf88c9954ef3ab686f8e4bfbd87622"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a688b7ea064739ea9fa66bf64bf4ae631"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a688b7ea064739ea9fa66bf64bf4ae631">display</a> () const</td></tr>
+<tr class="memdesc:a688b7ea064739ea9fa66bf64bf4ae631"><td class="mdescLeft">&#160;</td><td class="mdescRight">Show all saved data.  <a href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a688b7ea064739ea9fa66bf64bf4ae631">More...</a><br /></td></tr>
 <tr class="separator:a688b7ea064739ea9fa66bf64bf4ae631"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
@@ -151,6 +155,8 @@ int8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="..
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Set maximum number of data. </p>
 <p><a class="el" href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html" title="Queue_Array class containing the main data and also index of head and tail of the array.">Queue_Array</a> constructor. Initializes the maximum number of data than can be saved. </p>
 <div class="fragment"><div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;                         {</div>
 <div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    <a class="code" href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a6fafc40f9484ffea190f2c0f8220fcfc">arr</a>.<a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/resize.html">resize</a>(<a class="code" href="../../d8/df0/queue__using__array_8cpp.html#a145f727026485ecb1c4da13ca201be3b">max_size</a>);</div>
@@ -179,7 +185,10 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>function removes the element at the first of the queue </p><dl class="section return"><dt>Returns</dt><dd>data that is deleted if queue is not empty </dd></dl>
+
+<p>Delete element from back of the queue. </p>
+<p>Remove element that is located at the first of the queue.</p>
+<dl class="section return"><dt>Returns</dt><dd>data that is deleted if queue is not empty </dd></dl>
 <div class="fragment"><div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;                         {</div>
 <div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    int8_t d{0};</div>
 <div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a2f676f2f249eb36dfd49711a03e9e67e">front</a> == -1) {</div>
@@ -217,7 +226,9 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>function shows all elements in the queue </p>
+
+<p>Show all saved data. </p>
+<p>Utility function to show all elements in the queue. </p>
 <div class="fragment"><div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;                                {</div>
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="../../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a2f676f2f249eb36dfd49711a03e9e67e">front</a> == -1) {</div>
 <div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;        <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;\nStack is empty&quot;</span>;</div>
@@ -249,7 +260,10 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>function adds new element to the end of the queue </p><dl class="params"><dt>Parameters</dt><dd>
+
+<p>Add element to the first of the queue. </p>
+<p>Adds new element to the end of the queue.</p>
+<dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">ele</td><td>to be added to the end of the queue </td></tr>
   </table>
