@@ -122,13 +122,13 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"d3/d19/sparse__matrix_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d5/d4c/group__sorting.html#gae66f6b31b5ad750f1fe042a706a4e3d4",
-"d7/d24/nqueen__print__all__solutions_8cpp.html#aebd5e11fab6dab282efccfb61beb0bd9",
-"d9/d49/kohonen__som__trace_8cpp.html#a412b7afa156306b1f8788643c91a1c60",
-"db/d82/classlarge__number.html#ae35a55607cf52c0b0d485f2129bd39ac",
-"de/d7b/merge__insertion__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
+"",
+"d2/de9/heavy__light__decomposition_8cpp.html#af31ec5409537703d9c8a47350386b32a",
+"d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73",
+"d7/d1e/graph_2dijkstra_8cpp.html#a454891267187a5ec6c6e3f3ad5203ff1",
+"d9/d44/magic__number_8cpp.html#a8d8e81a7cd59644b311ef9adb268f5f0",
+"db/d82/classlarge__number.html#aad394466f3207b21b5d3e994b3a8ed72",
+"de/d75/qr__eigen__values_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
