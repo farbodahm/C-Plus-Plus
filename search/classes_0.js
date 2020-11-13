@@ -17,7 +17,8 @@ var searchData=
   ['array_2251',['array',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
   ['array_3c_20float_2c_2020_20_3e_2252',['array&lt; float, 20 &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
   ['array_3c_20int_2c_2050_20_3e_2253',['array&lt; int, 50 &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
-  ['atomic_2254',['atomic',['http://en.cppreference.com/w/cpp/atomic/atomic.html',0,'std']]],
-  ['atomic_5fflag_2255',['atomic_flag',['http://en.cppreference.com/w/cpp/atomic/atomic_flag.html',0,'std']]],
-  ['auto_5fptr_2256',['auto_ptr',['http://en.cppreference.com/w/cpp/memory/auto_ptr.html',0,'std']]]
+  ['array_3c_20int16_5ft_2c_20max_5fsize_20_3e_2254',['array&lt; int16_t, max_size &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
+  ['atomic_2255',['atomic',['http://en.cppreference.com/w/cpp/atomic/atomic.html',0,'std']]],
+  ['atomic_5fflag_2256',['atomic_flag',['http://en.cppreference.com/w/cpp/atomic/atomic_flag.html',0,'std']]],
+  ['auto_5fptr_2257',['auto_ptr',['http://en.cppreference.com/w/cpp/memory/auto_ptr.html',0,'std']]]
 ];

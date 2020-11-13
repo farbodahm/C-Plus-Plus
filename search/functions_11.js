@@ -5,9 +5,8 @@ var searchData=
   ['quadraticprobe_4046',['quadraticProbe',['../d4/dd2/namespacequadratic__probing.html#ab431981b54c0bae1b2956f716aee1dcf',1,'quadratic_probing']]],
   ['query_4047',['query',['../d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#a1fda852e6e522707fd97f61cdb0a2591',1,'range_queries::heavy_light_decomposition::SG::query()'],['../d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a4dfbf5d9df825eeb63b294c6849bdcab',1,'range_queries::heavy_light_decomposition::HLD::query()']]],
   ['queue_4048',['queue',['http://en.cppreference.com/w/cpp/container/queue/queue.html',0,'std::queue::queue()'],['../db/da9/classqueue.html#a21381ee7f95daae0332665914780e970',1,'queue::queue()']]],
-  ['queue_5farray_4049',['Queue_Array',['../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a185dbd6ea55752e8114ce338defdd30c',1,'data_structures::queue_using_array::Queue_Array']]],
-  ['queue_5ftest_4050',['queue_test',['../df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863',1,'queue_using_two_stacks.cpp']]],
-  ['quick_5fexit_4051',['quick_exit',['http://en.cppreference.com/w/cpp/utility/program/quick_exit.html',0,'std']]],
-  ['quicksort_4052',['quicksort',['../d5/d91/namespacesorting.html#a9f59fe72dacc1f1218ef3c303d843168',1,'sorting::quicksort(std::vector&lt; T &gt; *arr, int32_t low, int32_t high)'],['../d5/d91/namespacesorting.html#a9d4eb6ea3c35540d804d451f1716622d',1,'sorting::quicksort(std::vector&lt; T &gt; arr, int32_t low, int32_t high)'],['../d5/d91/namespacesorting.html#a50b66a1c652291b9a346ec7342967178',1,'sorting::quickSort(int arr[], int low, int high)']]],
-  ['quiet_5fnan_4053',['quiet_NaN',['http://en.cppreference.com/w/cpp/types/numeric_limits/quiet_NaN.html',0,'std::numeric_limits']]]
+  ['queue_5ftest_4049',['queue_test',['../df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863',1,'queue_using_two_stacks.cpp']]],
+  ['quick_5fexit_4050',['quick_exit',['http://en.cppreference.com/w/cpp/utility/program/quick_exit.html',0,'std']]],
+  ['quicksort_4051',['quicksort',['../d5/d91/namespacesorting.html#a9f59fe72dacc1f1218ef3c303d843168',1,'sorting::quicksort(std::vector&lt; T &gt; *arr, int32_t low, int32_t high)'],['../d5/d91/namespacesorting.html#a9d4eb6ea3c35540d804d451f1716622d',1,'sorting::quicksort(std::vector&lt; T &gt; arr, int32_t low, int32_t high)'],['../d5/d91/namespacesorting.html#a50b66a1c652291b9a346ec7342967178',1,'sorting::quickSort(int arr[], int low, int high)']]],
+  ['quiet_5fnan_4052',['quiet_NaN',['http://en.cppreference.com/w/cpp/types/numeric_limits/quiet_NaN.html',0,'std::numeric_limits']]]
 ];
